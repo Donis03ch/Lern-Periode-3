@@ -24,9 +24,12 @@ Brandon Spaqi
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
 | 1   | Applikation läuft    |     |     |     |
-| 2 | Applikation läuft    | Book selected    | Buch wird geöffnet    |     |
-| 3 | Applikation läuft (Datei wird gelesen)    | Bookmark selected    | Pin page number    |     |
-| 4   |     |     |     |     |
+| 2.1 | Applikation läuft    | Book selected    | Buch wird angezeigt    |     |
+| 2.2   | Applikation läuft    | markiere Text    | Buchseite wird verändert    |     |
+| 2.3   | Applikation läuft    | Buch verlassen    | zurück zur Startseite    |     |
+| 3.1 | Applikation läuft (Datei wird gelesen)    | Bookmark selected    | Pin page number    |     |
+| 3.2   | Applikation läuft    | Buch verlassen    | Fortschritt gespeichert    |     |
+| 4   | Applikation läuft (Datei wird gelesen)    | Notiz schreiben    | Notiz anzeigen    |     |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
