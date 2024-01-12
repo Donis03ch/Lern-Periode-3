@@ -16,14 +16,16 @@ Brandon Spaqi
 
 ## 19.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Entwerfe die grundlegende Benutzeroberfläche (UI)
+- [ ] if...else verwenden, um zu überprüfen, ob ein Buch ausgewählt wurde.
+- [ ] if...else verwenden, um zu überprüfen, ob der Benutzer ein Lesezeichen setzen möchte.
+- [ ] if...else verwenden, um zu überprüfen, welche Anpassungen der Benutzer vorgenommen hat, und die Benutzeroberfläche entsprechend aktualisieren.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |
-| ... |     |     |     |     |
+| 1   | Applikation läuft    |     |     |     |
+| 2 | Applikation läuft    | Book selected    | Buch wird geöffnet    |     |
+| 3 | Applikation läuft (Datei wird gelesen)    | Bookmark selected    | Pin page number    |     |
 | 4   |     |     |     |     |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
@@ -32,11 +34,10 @@ Brandon Spaqi
 
 ## 26.1.2024
 
-- [ ] Fünftes AP
-  
-- [ ] Spiel endet, wenn Schlange sich selber beisst
-  
-- [ ] Achtes AP
+- [ ] while-Schleifen verwenden, um durch alle vorhandenen Notizen und Markierungen zu iterieren.
+- [ ] if...else verwenden, um zwischen der Volltextsuche und der Wörterbuchintegration zu wählen.
+- [ ] if...else verwenden, um zu überprüfen, ob ein Buch heruntergeladen wurde.
+- [ ] if...else und while verwenden, um fortgeschrittene Funktionen zu implementieren.
   
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
