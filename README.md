@@ -25,8 +25,8 @@ Brandon Spaqi
 | --- | --- | --- | --- | --- |
 | 1   | Applikation läuft    |     |     |     |
 | 2.1 | Applikation läuft    | Book selected    | Buch wird angezeigt    |     |
-| 2.2   | Applikation läuft    | markiere Text    | Buchseite wird verändert    |     |
-| 2.3   | Applikation läuft    | Buch verlassen    | zurück zur Startseite    |     |
+| 2.2   | Applikation läuft (Datei wird gelesen)   | markiere Text    | Buchseite wird verändert    |     |
+| 2.3   | Applikation läuft (Datei wird gelesen)   | Buch verlassen    | zurück zur Startseite    |     |
 | 3.1 | Applikation läuft (Datei wird gelesen)    | Bookmark selected    | Pin page number    |     |
 | 3.2   | Applikation läuft    | Buch verlassen    | Fortschritt gespeichert    |     |
 | 4   | Applikation läuft (Datei wird gelesen)    | Schrifgrösse auf 16    | Schrift wird auf 16 angezeigt    |     |
