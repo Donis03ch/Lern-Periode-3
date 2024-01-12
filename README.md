@@ -29,7 +29,7 @@ Brandon Spaqi
 | 2.3   | Applikation läuft    | Buch verlassen    | zurück zur Startseite    |     |
 | 3.1 | Applikation läuft (Datei wird gelesen)    | Bookmark selected    | Pin page number    |     |
 | 3.2   | Applikation läuft    | Buch verlassen    | Fortschritt gespeichert    |     |
-| 4   | Applikation läuft (Datei wird gelesen)    | Notiz schreiben    | Notiz anzeigen    |     |
+| 4   | Applikation läuft (Datei wird gelesen)    | Schrifgrösse auf 16    | Schrift wird auf 16 angezeigt    |     |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -45,8 +45,10 @@ Brandon Spaqi
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 5   |     |     |     |     |
-| 7   | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet |     |
+| 5   | Applikation läuft (Datei wird gelesen)    | Notiz schreiben    | Notiz anzeigen    |     |
+| 6   | Applikation läuft (Datei wird gelesen)    | Begriff suchen    | Suchergebnisse anzeigen    |     |
+| 7.1   | Applikation läuft (Datei wird gelesen) | Buch Downloaden | Downloadstatus    |   |
+| 7.2   | Applikation lädt Buch runter     | trenne Internetverbindung    | öffne Buch um zu lesen    |     |
 | 8   |     |     |     |     |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
