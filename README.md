@@ -8,7 +8,7 @@ Brandon Spaqi
 
 1. Meine Modul 319 Note ist genügend, ich würde dieses aber nicht aus den Augen verlieren. Die Modul Noten 431 & 164 waren mir jedoch gelungen. Das Modul 319 ist mir wichtig, da ich das Programmieren für später in dem Beruf anwenden kann. Modul 164 ist auch wichtig, da Datenbanken viel mit der Sicherheit zu tun haben und ich Cyber Security interessant finde.
 2. Ich sollte mir für die nächsteen LPs realistische Zeitpläne erstellen. Bei Problemen sollte ich mich aktiv melden und Unterstützung suchen. 
-3. Mein Vorschlag für diese LP wäre eine Notizen-Applikation durchaus sinnvoll.
+3. Mein Vorschlag für diese LP wäre eine Notizen-Applikation.
 
 ## 12.1.2024
 
