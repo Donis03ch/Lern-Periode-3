@@ -6,7 +6,7 @@ Brandon Spaqi
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+1. Meine Modul 319 Note ist genügend, ich würde dieses aber nicht aus den Augen verlieren. Die Modul Noten 431 & 164 waren mir jedoch gelungen. Das Modul 319 ist mir wichtig, da ich das Programmieren für später in dem Beruf anwenden kann. Modul 164 ist auch wichtig, da Datenbanken viel mit der Sicherheit zu tun haben und ich Cyber Security interessant finde.
 2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 3. Was wäre ein geeignetes Projekt würd diese LP3?
 
