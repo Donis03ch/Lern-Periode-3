@@ -12,7 +12,7 @@ Brandon Spaqi
 
 ## 12.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich eine kleines Programmierprojekt gefunden und auch gestartet. Zum Start habe ich mit WPF erstmals die UI angefangen. (50-100 Wörter)
 
 ## 19.1.2024
 
