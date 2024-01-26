@@ -33,7 +33,6 @@ Heute habe ich eine kleines Programmierprojekt gefunden und auch gestartet. Zum 
 
 Heute am 16.1 habe ich die UI gemacht. Davor habe ich ungefähr ein Arbeitspaket nur Tutorials angesehen, um zum Schluss zu kommen, dass WPF wie WinForms mit HTML Elementen ist. Bevor ich jedoch ein Buch auswählen kann, muss ich die Datei zuerst einlesen können. (44 Wörter)
 
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 26.1.2024
 
@@ -51,9 +50,10 @@ Heute am 16.1 habe ich die UI gemacht. Davor habe ich ungefähr ein Arbeitspaket
 | 7.2   | Applikation lädt Buch runter     | trenne Internetverbindung    | öffne Buch um zu lesen    |     |
 | 8   |     |     |     |     |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Heute am 26.1 habe ich die UI kurz verändert. Sonst habe ich mit Tutorials schaffen können, die PDF-Datei per Pfad mir anzeigen zu lassen. Ich sollte eventuell weniger Arbeitspakete planen, das ist zu viel für diese Spanne. Während den Ferien würde ich an den UI und an der Optimierung arbeiten. Sie sieht wie folgt aus: (54 Wörter)
 
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+![image](https://github.com/Donis03ch/Lern-Periode-3/assets/111046453/0c5f474d-658c-457c-bd4f-40bbdd7c039b)
+
 
 ## 16.2.2024
 
