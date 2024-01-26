@@ -16,7 +16,7 @@ Heute habe ich eine kleines Programmierprojekt gefunden und auch gestartet. Zum 
 
 ## 19.1.2024
 
-- [ ] Entwerfe die grundlegende Benutzeroberfläche (UI)
+- [x] Entwerfe die grundlegende Benutzeroberfläche (UI)
 - [ ] if...else verwenden, um zu überprüfen, ob ein Buch ausgewählt wurde.
 - [ ] if...else verwenden, um zu überprüfen, ob der Benutzer ein Lesezeichen setzen möchte.
 - [ ] if...else verwenden, um zu überprüfen, welche Anpassungen der Benutzer vorgenommen hat, und die Benutzeroberfläche entsprechend aktualisieren.
@@ -31,7 +31,7 @@ Heute habe ich eine kleines Programmierprojekt gefunden und auch gestartet. Zum 
 | 3.2   | Applikation läuft    | Buch verlassen    | Fortschritt gespeichert    |     |
 | 4   | Applikation läuft (Datei wird gelesen)    | Schrifgrösse auf 16    | Schrift wird auf 16 angezeigt    |     |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+Heute am 16.1 habe ich die UI gemacht. Davor habe ich ungefähr ein Arbeitspaket nur Tutorials angesehen, um zum Schluss zu kommen, dass WPF wie WinForms mit HTML Elementen ist. Bevor ich jedoch ein Buch auswählen kann, muss ich die Datei zuerst einlesen können. (44 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
