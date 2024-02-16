@@ -65,5 +65,6 @@ In Bezug auf meiner letzten LP konnte ich in diesem neuen Projekt deutlich konze
 
 Ein weiterer Aspekt, den ich während dieses Projekts erkannt habe, ist die Bedeutung des Übens im Programmieren. Obwohl ich mit dem Skelett meines E-Readers zufrieden bin, weiß ich, dass ich durch regelmäßiges Üben meine Fähigkeiten weiter verbessern kann. Es ist offensichtlich, dass ich mehr Zeit investieren muss, um wirklich versiert im Codieren zu werden und meinem Programm die gewünschten Funktionen hinzuzufügen. (127 Wörter)
 
-** Länge der Projekte **
+**Länge der Projekte**
+
 In der 10-wöchtigen LP2 war für mich viel Zeit, um entweder für ein grosses oder zwei kleine Projekte zu arbeiten. Während der Sessions wusste ich oft nicht was ich tun sollte, das Priorisieren war für mich daher schwieriger. Im Vergleich dazu, habe ich in der 3-wöchtigen LP3 wissen können, welche Funktion wichtig ist für den Prototypen meines Programmes. Für die zukünftige LP könnte das bedeuten, dass ich ein Prototypen mir vor den Augen vorstellen soll. Was brauch ich damit das Projekt seine Funktion erfüllt und einwandfrei lauft.
