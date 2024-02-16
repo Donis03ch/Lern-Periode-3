@@ -61,6 +61,9 @@ Heute am 26.1 habe ich die UI kurz verändert. Sonst habe ich mit Tutorials scha
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+In Bezug auf meiner letzten LP konnte ich in diesem neuen Projekt deutlich konzentrierter arbeiten und hatte eine klarere Vorstellung davon, was zu tun war. Dennoch habe ich festgestellt, dass meine Zeitplanung noch verbessert werden kann. Oft habe ich mehr Arbeitspakete geplant, als ich letztendlich in der vorgegebenen Zeit bewältigen konnte. Diese Diskrepanz hat mich dazu veranlasst, meine Herangehensweise zu überdenken und realistischere Ziele zu setzen.
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Ein weiterer Aspekt, den ich während dieses Projekts erkannt habe, ist die Bedeutung des Übens im Programmieren. Obwohl ich mit dem Skelett meines E-Readers zufrieden bin, weiß ich, dass ich durch regelmäßiges Üben meine Fähigkeiten weiter verbessern kann. Es ist offensichtlich, dass ich mehr Zeit investieren muss, um wirklich versiert im Codieren zu werden und meinem Programm die gewünschten Funktionen hinzuzufügen. (127 Wörter)
+
+** Länge der Projekte **
+In der 10-wöchtigen LP2 war für mich viel Zeit, um entweder für ein grosses oder zwei kleine Projekte zu arbeiten. Während der Sessions wusste ich oft nicht was ich tun sollte, das Priorisieren war für mich daher schwieriger. Im Vergleich dazu, habe ich in der 3-wöchtigen LP3 wissen können, welche Funktion wichtig ist für den Prototypen meines Programmes. Für die zukünftige LP könnte das bedeuten, dass ich ein Prototypen mir vor den Augen vorstellen soll. Was brauch ich damit das Projekt seine Funktion erfüllt und einwandfrei lauft.
