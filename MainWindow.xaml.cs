@@ -30,19 +30,26 @@ namespace DEBreader
 
         private void UploadButton_Click(object sender, RoutedEventArgs e)
         {
-            string sFilename = UploadTxt.Text;
-
-            PdfReader pdf_Reader = new PdfReader(sFilename);
-            string sText = "";
-
-            for (int i = 1; i <= pdf_Reader.NumberOfPages; i++)
+            try
             {
-                sText = sText + PdfTextExtractor.GetTextFromPage(pdf_Reader, i);
+                string sFilename = UploadTxt.Text;
+
+                PdfReader pdf_Reader = new PdfReader(sFilename);
+                string sText = "";
+
+                for (int i = 1; i <= pdf_Reader.NumberOfPages; i++)
+                {
+                    sText = sText + PdfTextExtractor.GetTextFromPage(pdf_Reader, i);
+                }
+
+                lblPDF_Output.Text = sText;
             }
-
-            lblPDF_Output.Text = sText;
+            
+            catch ( Exception )
+            {
+                   string noFile = $"error: No file such as {UploadTxt.Text} has been found.";
+                   UploadTxt.Text = noFile;
+            }
         }
-
-
     }
 }
